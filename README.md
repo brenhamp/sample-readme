@@ -5,7 +5,7 @@
   ## Description
 
 
-  This is a sample README generated using my [README Generator] (https://github.com/brenhamp/readme-generator).
+  This is a sample README generated using my [README Generator](https://github.com/brenhamp/readme-generator).
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
